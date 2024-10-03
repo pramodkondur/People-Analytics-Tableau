@@ -1,10 +1,16 @@
 # People Analytics Tableau Project
 
-Credits: [XIBMS](https://www.xibms.com/blog/career-prospects-in-human-resource-management/)
+![img](hrImage.jpeg)
+
+Credits: [iStock/GettyImages](https://www.istockphoto.com/photo/businessman-touching-to-virtual-screen-with-infographic-and-hr-wording-human-gm1325421270-410453777))
+
 <a href="https://www.tableau.com/"> <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"> </a> 
 <a href="https://www.python.org/"> <img alt="Python" src="https://img.shields.io/badge/Python-3B7EAB?logo=python&logoColor=white"> </a> 
 <a href="https://pandas.pydata.org/"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"> </a> 
 <a href="https://numpy.org/"> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"> </a>
+<a href="https://www.tableau.com/solutions/business-intelligence"> <img alt="Business Intelligence" src="https://img.shields.io/badge/Business_Intelligence-FF5722?logo=tableau&logoColor=white"> </a>
+<a href="https://www.tableau.com/products/data-visualization"> <img alt="Data Visualization" src="https://img.shields.io/badge/Data_Visualization-0B75C4?logo=tableau&logoColor=white"> </a>
+<a href="https://www.analyticsvidhya.com/blog/2020/06/what-is-data-analytics-a-beginners-guide/"> <img alt="Data Analytics" src="https://img.shields.io/badge/Data_Analytics-FF9800?logo=tableau&logoColor=white"> </a>
 
 ## Overview
 
@@ -428,3 +434,11 @@ print(df)
 # Save to CSV
 df.to_csv('HumanResources.csv', index=False)
 ```
+
+## Demo: 
+![img](sh1.png)
+![img](sh2.png)
+
+## Conclusion
+
+By utilizing the comprehensive dashboard, organizations can gain a deeper understanding of their human resources. The insights derived from Tableau empower HR managers to enhance recruitment strategies, optimize workforce planning, and improve employee engagement, ultimately leading to better overall management strategies. Embracing Tableau in people analytics not only elevates HR functions but also drives organizational success through informed decision-making.
