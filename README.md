@@ -35,9 +35,9 @@ Credits: [Tableau](www.tableau.com)
 - **Enhanced Employee Engagement**: Analytics can reveal factors affecting employee satisfaction and engagement, enabling organizations to implement changes that improve the workplace culture.
 
 
-## User Story
+## Problem Statement
 
-As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.
+The HR manager wants a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.
 
 ## Summary View
 
@@ -434,6 +434,31 @@ print(df)
 # Save to CSV
 df.to_csv('HumanResources.csv', index=False)
 ```
+## Steps in Tableau
+
+1. **Data Collection**  
+   Gathered relevant workforce data from various sources, ensuring it's accurate and complete.
+
+2. **Loading Data**  
+   Imported the collected data into Tableau using supported file formats (e.g., CSV, Excel, SQL databases).
+
+3. **Creating Individual Sheets**  
+   Developed separate worksheets for different metrics and analyses, allowing for focused visualization.
+
+4. **Item and Value Hierarchy**  
+   Established a hierarchy for dimensions (e.g., department, job title) to enable drill-down capabilities in your visualizations.
+
+5. **Calculations**  
+   Created calculated fields to derive new metrics or insights from existing data, enhancing the analysis.
+
+6. **Adding All Sheets into Dashboard**  
+   Combine the individual sheets into a cohesive dashboard, allowing for a comprehensive view of the data.
+
+7. **Editing Color and Tooltips**  
+   Customized colors and tooltips for clarity and better user experience, ensuring the dashboard is visually appealing.
+
+8. **Final Touches**  
+   Made necessary adjustments to layout, labels, and interactivity, ensuring the dashboard is user-friendly and insightful.
 
 ## Demo: 
 ![img](sh1.png)
