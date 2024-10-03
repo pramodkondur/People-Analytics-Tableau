@@ -1,9 +1,8 @@
 # People Analytics Tableau Project
 
-![img](hrImage.jpeg)
+![img](hrImage.png)
 
-Credits: [iStock/GettyImages](https://www.istockphoto.com/photo/businessman-touching-to-virtual-screen-with-infographic-and-hr-wording-human-gm1325421270-410453777)
-
+Credits: [Acko](https://www.acko.com/group-health-insurance/digital-hr/)
 <a href="https://www.tableau.com/"> <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"> </a> 
 <a href="https://www.python.org/"> <img alt="Python" src="https://img.shields.io/badge/Python-3B7EAB?logo=python&logoColor=white"> </a> 
 <a href="https://pandas.pydata.org/"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"> </a> 
@@ -465,9 +464,6 @@ df.to_csv('HumanResources.csv', index=False)
 ## Demo: 
 ![img](sh1.png)
 ![img](sh2.png)
-
-## Demo Gif: 
-![Project GIF](project.gif?raw=true)
 
 
 ## Conclusion
