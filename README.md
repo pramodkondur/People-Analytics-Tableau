@@ -18,6 +18,8 @@ This project provides a comprehensive Tableau dashboard designed for HR managers
 
 ## Benefits of Using Tableau
 
+![img](Tableau-Logo.png)
+
 Credits: [Tableau](www.tableau.com)
 
 - **Data Visualization**: Tableau transforms complex data into interactive, visual formats, making it easier to understand and analyze HR metrics.
