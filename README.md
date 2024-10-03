@@ -454,7 +454,7 @@ df.to_csv('HumanResources.csv', index=False)
    Created calculated fields to derive new metrics or insights from existing data, enhancing the analysis.
 
 6. **Adding All Sheets into Dashboard**  
-   Combine the individual sheets into a cohesive dashboard, allowing for a comprehensive view of the data.
+   Combined the individual sheets into a cohesive dashboard, allowing for a comprehensive view of the data.
 
 7. **Editing Color and Tooltips**  
    Customized colors and tooltips for clarity and better user experience, ensuring the dashboard is visually appealing.
@@ -468,9 +468,6 @@ df.to_csv('HumanResources.csv', index=False)
 
 ## Demo Gif: 
 ![Project GIF](project.gif?raw=true)
-
-## Demo Video: 
-![Demo Video](Demo.mov)
 
 
 ## Conclusion
