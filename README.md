@@ -466,6 +466,13 @@ df.to_csv('HumanResources.csv', index=False)
 ![img](sh1.png)
 ![img](sh2.png)
 
+## Demo Gif: 
+![Project GIF](project.gif?raw=true)
+
+## Demo Video: 
+![Demo Video](Demo.mov)
+
+
 ## Conclusion
 
 By utilizing the comprehensive dashboard, organizations can gain a deeper understanding of their human resources. The insights derived from Tableau empower HR managers to enhance recruitment strategies, optimize workforce planning, and improve employee engagement, ultimately leading to better overall management strategies. Embracing Tableau in people analytics not only elevates HR functions but also drives organizational success through informed decision-making.
