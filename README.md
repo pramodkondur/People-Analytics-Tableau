@@ -2,7 +2,7 @@
 
 ![img](hrImage.jpeg)
 
-Credits: [iStock/GettyImages](https://www.istockphoto.com/photo/businessman-touching-to-virtual-screen-with-infographic-and-hr-wording-human-gm1325421270-410453777))
+Credits: [iStock/GettyImages](https://www.istockphoto.com/photo/businessman-touching-to-virtual-screen-with-infographic-and-hr-wording-human-gm1325421270-410453777)
 
 <a href="https://www.tableau.com/"> <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"> </a> 
 <a href="https://www.python.org/"> <img alt="Python" src="https://img.shields.io/badge/Python-3B7EAB?logo=python&logoColor=white"> </a> 
