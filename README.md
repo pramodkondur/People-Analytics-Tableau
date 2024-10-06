@@ -462,8 +462,8 @@ df.to_csv('HumanResources.csv', index=False)
    Made necessary adjustments to layout, labels, and interactivity, ensuring the dashboard is user-friendly and insightful.
 
 ## Demo: 
-![img](img1.png)
-![img](img2.png)
+![img](projimag1.png)
+![img](projimag2.png)
 
 
 ## Conclusion
